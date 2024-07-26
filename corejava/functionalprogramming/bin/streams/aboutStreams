@@ -1,0 +1,8 @@
+which return Stream back are intermediate operations
+distinct, sorted, map returns Stream<T>
+filter returns Stream<T>
+
+terminal operations does not return Stream back
+forEach returning void
+collect returning R any specific type
+reduce returning R any specific type
