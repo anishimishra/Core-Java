@@ -1,0 +1,1 @@
+Hello from sequence input stream prints multiple files at once
